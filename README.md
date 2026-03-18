@@ -46,8 +46,8 @@ This project aims to provide a solid foundation to create a feature-rich and sca
 1. Clone and change to the directory:
 
 ```
-git clone https://github.com/kolosochok/django-ecommerce
-cd django-ecommerce
+git clone https://github.com/Spark0914724/python-eco.git
+cd python-eco
 ```
 
 2. Create and activate a virtual environment:
